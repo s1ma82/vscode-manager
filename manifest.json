@@ -1,0 +1,19 @@
+{
+  "required_api_version": "2",
+  "name": "vscode-manager",
+  "description": "empty",
+  "developer_name": "s1ma82",
+  "icon": "images/icon.svg",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "demo_kw",
+      "type": "keyword",
+      "name": "Demo",
+      "description": "Demo extension",
+      "default_value": "dm"
+    }
+  ]
+}
